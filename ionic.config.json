@@ -1,0 +1,8 @@
+{
+  "name": "Chat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "2948db4c"
+}
